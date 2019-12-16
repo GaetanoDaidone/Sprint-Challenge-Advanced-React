@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "@testing-library/react": "^9.4.0",
+    "jest": "^24.9.0",
     "nodemon": "^1.17.2"
   },
   "scripts": {
